@@ -1,8 +1,8 @@
 Read The TRC Report - Audio and Video
 =====================================
 
-An auxiliary (and independent) archive offered as a supplement to the *Read The TRC Report* project,
-providing downloadable audio and video for the purposes of accessibility.
+An auxiliary (and independent) archive offered as a supplement to the **Read The TRC Report** project.
+This archive provides downloadable audio and video for the purposes of accessibility.
 
 **Read The TRC Report** is a project created and curated by Erica Violet Lee, Zoe Todd, and Joseph Paul Murdoch Flowers
 with the intent of furthering the conversation regarding reconciliation between Indigenous peoples and Canadians within Canada.
