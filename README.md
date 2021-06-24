@@ -26,8 +26,9 @@ to action.
 I would also like to say I am grateful for those who took the time and effort to make the recordings in the first place.
 If you're reading this, you have created *medicine* for us all to take on this journey forward in reconcilation.
 
-With that said, none of this could have happened without the Commissioners of the Truth and Reconcilation Commission itself.
-You have been thanked many times over the past six years I'm sure, but once more won't hurt: Thank you for all your hard work.
+With that said, none of this could have happened without the Commissioners of the Truth and Reconcilation Commission
+itself. You have been thanked many times throughout the six years it took to complete your commission. I would like
+to say my own words of appreciation here as well: Thank you for all your hard work.
 
 I would also like to express deep humility and respect for the Survivors of the Canadian Residential School System.
 We do this for you.
