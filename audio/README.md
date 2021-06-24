@@ -1,9 +1,9 @@
 Read The TRC Report - Audio
 ===========================
 
-With a crowdsourced project like this, it is expected there would be some variation in the recordings. It has been my aim
-to normalize this for a standardized accessibility. In particular, I have pulled the audio from the videos and have
-modified it in the following ways:
+With a crowdsourced project like this, it is expected there would be some variation in the recordings.
+It has been the aim of this archive to normalize this variation for a standardized accessibility.
+In particular, the audio has been pulled from the original videos and has been modified in the following ways:
 
 1. Select audio has been noise reduced to strengthen focus on the empowering voices of these readings.
 1. The audio volume level across all recordings has been normalized.

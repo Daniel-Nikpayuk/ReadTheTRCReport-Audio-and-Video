@@ -2,8 +2,8 @@ Read The TRC Report - Video
 ===========================
 
 With a crowdsourced project like this, it is expected there would be some variation in the recordings.
-It has been the aim of this archive to normalize this for a standardized accessibility. In particular,
-the original videos have been modified in the following ways:
+It has been the aim of this archive to normalize this variation for a standardized accessibility.
+In particular, the original videos have been modified in the following ways:
 
 1. The audio of select videos has been noise reduced to strengthen focus on the empowering voices of these readings.
 1. The audio volume level across all videos has been normalized.
