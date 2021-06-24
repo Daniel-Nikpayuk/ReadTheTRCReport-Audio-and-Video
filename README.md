@@ -1,5 +1,5 @@
-ReadTheTRCReport-Audio-and-Video
-================================
+Read The TRC Report - Audio and Video
+=====================================
 
 An auxiliary (and independent) archive offered as a supplement to the *Read The TRC Report* project,
 providing downloadable audio and video for the purposes of accessibility.
