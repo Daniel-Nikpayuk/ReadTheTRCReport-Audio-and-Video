@@ -21,7 +21,7 @@ The explanations of *how* these files are more accessible is given in the folder
 ----------------
 
 I would like to express my gratitude to Zoe Todd, Erica Violet Lee, and Joseph Paul Murdoch Flowers for their call
-to action. I am lucky and grateful to serve and to be able to serve.
+to action.
 
 I would also like to say I am grateful for those who took the time and effort to make the recordings in the first place.
 If you're reading this, you have created *medicine* for us all to take on this journey forward in reconcilation.
