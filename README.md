@@ -8,7 +8,7 @@ This archive provides downloadable audio and video for the purposes of accessibi
 with the intent of furthering the conversation of reconciliation between Indigenous peoples and Canadians within Canada.
 As an installation, their project has crowdsourced the narration of the Canadian *Truth and Reconcilation Commission*
 [Executive Summary](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/Executive_Summary_English_Web.pdf)---a summary of the much more comprehensive
-[Final Reports](https://nctr.ca/records/reports/) released December 15th, 2015. The crowdsourced project has been
+[Final Reports](https://nctr.ca/records/reports/) released December 15th, 2015. Their crowdsourced project has been
 [posted](https://www.youtube.com/playlist?list=PLxPr_RIsvg9JJWoiRx2kl2v24r_pu7JbR) in video format on Youtube.
 
 This archive takes those same videos and offers formatted versions, as well as audio only versions, available for download:
