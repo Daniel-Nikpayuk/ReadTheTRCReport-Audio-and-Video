@@ -1,8 +1,8 @@
-ReadTheTRCReport - Audio
-========================
+ReadTheTRCReport-Audio
+======================
 
 With a crowdsourced project like this, it is expected there would be some variation in the recordings. It has been my aim
-to normalize this for a standardized accessibility.  In particular, I have pulled the audio from the videos and have
+to normalize this for a standardized accessibility. In particular, I have pulled the audio from the videos and have
 modified it in the following ways:
 
 1. Select audio has been noise reduced to strengthen focus on the empowering voices of these readings.
@@ -25,15 +25,15 @@ https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!397&authkey=!AJ_QaBpKtXyC
 
 https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!401&authkey=!ALctrGYE5TXMZAQ&ithint=file%2czip
 
-A problem immediately arises, and you might be asking yourself: *Which one do I download* ?
+At this point you might be asking yourself: *Which one do I download* ?
 
-All three have the exact same content. The difference is quality. The tradeoff is filesize. For those who don't know,
-human voice requires less data than musical instruments, and so your music mp3 might require 96kbps or even 128kbps,
-but for human voices, 64kbps is almost always sufficient. This is why I have chosen the above three bitrate qualities:
-With 32kbps, you can noticeably hear the distortion, but it's tolerable, and given how small the download size is, you might
-decide it's worth it. Otherwise, 64kbps is likely just fine. In the off-chance you'd still prefer higher quality, 96kbps
-is also provided. In any case, such a description alone probably won't likely help you decide, so I have additionally provided
-a single recording sample (super small filesize) at all three bitrates you can download and listen and decide for yourself:
+All three have the exact same content. The difference is quality. The tradeoff is filesize: The 32kbps files
+have some distortion, but the files are small. If you live in an area with poor or expensive internet access,
+this might be a better option for you. Otherwise, 64kbps is likely just fine. In the off-chance you'd still
+prefer higher quality, 96kbps is also provided.
+
+If you'd like to hear the difference before you make your download, you can take a listen to the following
+sample, provided in each rate of quality:
 
 **Commission activities - Interim report - 32kbps (131KB)**:
 
@@ -50,10 +50,11 @@ https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!407&authkey=!AEPVIjEappjz
 Additional considerations:
 --------------------------
 
-Keep in mind when listening to these recordings, the page ranges given by various narrators do not match the latest version
-of the Executive Summary. To date there have been three versions (that I know of) that have been released, each with
-different page range metadata. The metadata provided in the above recordings have been indexed to the July 23rd, 2015 version.
-Although you can likely find all three pdf versions elsewhere, I have archived them here for convenience:
+When listening to these recordings, keep in mind the page ranges given by various narrators do not match
+the latest version of the Executive Summary. To date there have been three versions (that I know of) that
+have been released, each with different page range metadata. The metadata provided in the above recordings
+have been indexed to the July 23rd, 2015 version. Although you can likely find all three pdf versions elsewhere,
+I have archived them here for convenience:
 
 **Executive Summary - May 31st, 2015 (13MB)**:
 
@@ -68,5 +69,5 @@ https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!403&authkey=!ALOYHz9aRGkj
 https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!402&authkey=!AAHS3V9gP4k0rvY&ithint=file%2cpdf
 
 If you are a professional archivist, please archive these recordings. They are historically and academically worthy,
-and having Youtube as the *only* source for them otherwise makes their pesistence and lifespan unreliable in the long-run.
+and having Youtube as the *only* source for them makes their pesistence and lifespan unreliable in the long-run.
 

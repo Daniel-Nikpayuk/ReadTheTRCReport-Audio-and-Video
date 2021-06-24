@@ -1,5 +1,5 @@
-ReadTheTRCReport - Video
-========================
+ReadTheTRCReport-Video
+======================
 
 With a crowdsourced project like this, it is expected there would be some variation in the recordings. It has been my aim
 to normalize this for a standardized accessibility.  In particular, I have modified the videos in the following ways:
@@ -40,10 +40,11 @@ https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!399&authkey=!AJPhDmt29b9I
 Additional considerations:
 --------------------------
 
-Keep in mind when listening to these videos, the page ranges given by various narrators do not match the latest version
-of the Executive Summary. To date there have been three versions (that I know of) that have been released, each with
-different page range metadata. The metadata provided in the above videos have been indexed to the July 23rd, 2015 version.
-Although you can likely find all three pdf versions elsewhere, I have archived them here for convenience:
+When listening to these videos, keep in mind the page ranges given by various narrators do not match
+the latest version of the Executive Summary. To date there have been three versions (that I know of) that
+have been released, each with different page range metadata. The metadata provided in the above videos
+have been indexed to the July 23rd, 2015 version. Although you can likely find all three pdf versions elsewhere,
+I have archived them here for convenience:
 
 **Executive Summary - May 31st, 2015 (13MB)**:
 
@@ -56,10 +57,6 @@ https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!403&authkey=!ALOYHz9aRGkj
 **Executive Summary - July 23rd, 2015 (12MB)**:
 
 https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!402&authkey=!AAHS3V9gP4k0rvY&ithint=file%2cpdf
-
-If you are in a *low-bandwidth* or high cost (internet) community, it is recommended you split up downloading
-the above video chapters with your peers to relieve the financial or resource burden on any individual person.
-Once downloaded these videos can be viewed offline which is an improvement beyond streaming them from Youtube directly.
 
 If you are a professional archivist, please archive these videos. They are historically and academically worthy,
 and having Youtube as the *only* source for them otherwise makes their pesistence and lifespan unreliable in the long-run.
