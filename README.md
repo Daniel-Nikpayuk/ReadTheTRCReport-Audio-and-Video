@@ -5,16 +5,13 @@ An auxiliary (and independent) archive offered as a supplement to the **Read The
 This archive provides downloadable audio and video for the purposes of accessibility.
 
 **Read The TRC Report** is a project created and curated by Erica Violet Lee, Zoe Todd, and Joseph Paul Murdoch Flowers
-with the intent of furthering the conversation regarding reconciliation between Indigenous peoples and Canadians within Canada.
+with the intent of furthering the conversation of reconciliation between Indigenous peoples and Canadians within Canada.
 As an installation, their project has crowdsourced the narration of the Canadian *Truth and Reconcilation Commission*
 [Executive Summary](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/Executive_Summary_English_Web.pdf)---a summary of the much more comprehensive
-[Final Reports](https://nctr.ca/records/reports/) released December 15th, 2015. They have posted
-[their project](https://www.youtube.com/playlist?list=PLxPr_RIsvg9JJWoiRx2kl2v24r_pu7JbR) in video format on Youtube.
+[Final Reports](https://nctr.ca/records/reports/) released December 15th, 2015. The crowdsourced project has been
+[posted](https://www.youtube.com/playlist?list=PLxPr_RIsvg9JJWoiRx2kl2v24r_pu7JbR) in video format on Youtube.
 
-As a independent---but otherwise supplementary---project, to extend upon their intentions of accessibility I have here
-taken those videos and have made their digital formatting more accessible as downloadable video and audio:
-
-This archive was created from those videos, and offers formatted video as well as audio only files available for download:
+This archive takes those same videos and offers formatted versions, as well as audio only versions, available for download:
 
 + [video](video/README.md)
 + [audio](audio/README.md)
